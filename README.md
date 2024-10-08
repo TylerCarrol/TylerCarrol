@@ -9,12 +9,12 @@
 </div>
 
 ## About Me
-Hi, I'm Tyler Carrol!
+Hi, I'm Tyler Carrol.
 
 I am a Full Stack Developer.
 
 ## Projects
-- [TJC-Tools](https://github.com/TJC-Tools) is collection of libraries for use in my other projects
+- [This](https://github.com/TJC-Tools) is my collection of libraries for use in my other projects
 
 ## Skills
 <div align="left">
