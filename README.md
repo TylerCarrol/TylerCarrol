@@ -4,7 +4,7 @@ Hi, I'm Tyler Carrol.
 I am a Full Stack Developer.
 
 ## Projects
-- See [my site](https://tylercarrol.github.io/Projects/) for a list of my current projects
+- See [here](https://tylercarrol.github.io/Projects/) for a list of my current projects
 
 ## Skills
 <div align="left">
