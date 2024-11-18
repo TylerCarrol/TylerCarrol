@@ -14,11 +14,11 @@ Hi, I'm Tyler Carrol.
 I am a Full Stack Developer.
 
 ## Projects
-- [This](https://github.com/TJC-Tools) is my collection of libraries for use in my other projects
+- See [my site](https://tylercarrol.github.io/Projects/) for a list of my current projects
 
 ## Skills
 <div align="left">
-  <!-- ProgrammingLanguages -->
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <a href="https://www.nuget.org/profiles/TylerCarrol" target="_blank">
