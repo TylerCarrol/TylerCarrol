@@ -1,7 +1,7 @@
 ## About Me
 Hi, I'm Tyler Carrol.
 
-I am a Full Stack Developer.
+I am a Software Developer & Control Systems Designer.
 
 ## Projects
 - See [here](https://tylercarrol.github.io/Projects/) for a list of my current projects
