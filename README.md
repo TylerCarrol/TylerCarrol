@@ -3,8 +3,10 @@ Hi, I'm Tyler Carrol.
 
 I am a Software Developer & Control Systems Designer.
 
+<!--
 ## Projects
 - See [here](https://tylercarrol.github.io/Projects/) for a list of my current projects
+-->
 
 ## Skills
 <div align="left">
