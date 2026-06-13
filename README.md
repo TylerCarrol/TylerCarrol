@@ -1,7 +1,8 @@
 ## About Me
 Hi, I'm Tyler Carrol.
 
-I am a Software Developer & Control Systems Designer.
+I am a Software Developer.
+<!--& Control Systems Designer.-->
 
 <!--
 ## Projects
