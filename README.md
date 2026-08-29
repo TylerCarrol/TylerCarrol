@@ -64,10 +64,11 @@ I am a Software Developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 ![api](https://github-readme-stats.vercel.app/api?username=TylerCarrol&theme=dark)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=tylercarrol&theme=dark)
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=tylercarrol&theme=tokyo-night)
+ -->
 
 ## Commits
 <img src="https://raw.githubusercontent.com/tylercarrol/tylercarrol/output/snake.svg" alt="Snake animation" />
